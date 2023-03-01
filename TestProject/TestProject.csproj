@@ -19,7 +19,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\PW5\PW5.csproj" />
+    <ProjectReference Include="..\PW5.csproj" />
   </ItemGroup>
 
   <ItemGroup>
